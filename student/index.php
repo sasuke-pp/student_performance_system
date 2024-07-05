@@ -58,7 +58,7 @@ $rank = $result_rank->fetch_assoc();
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 21px;
+            margin-bottom: 19px;
         }
         th, td {
             padding: 10px;
