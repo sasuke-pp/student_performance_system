@@ -81,7 +81,7 @@ $scores = $result->fetch_assoc();
             border-radius: 5px;
         }
         button {
-            margin-top: 20px;
+            margin-top: 19px;
             padding: 10px;
             background-color: #5cb85c;
             border: none;
@@ -93,7 +93,7 @@ $scores = $result->fetch_assoc();
             background-color: #4cae4c;
         }
         a {
-            margin-top: 20px;
+            margin-top: 21px;
             display: block;
             text-align: center;
             background-color: #5cb85c;

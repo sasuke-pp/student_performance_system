@@ -30,7 +30,7 @@ $result = $conn->query($sql);
         }
         .container {
             background-color: #fff;
-            padding: 20px 40px;
+            padding: 19px 41px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 600px;
@@ -44,7 +44,7 @@ $result = $conn->query($sql);
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
+            margin-bottom: 21px;
         }
         th, td {
             padding: 10px;
