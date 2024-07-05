@@ -44,7 +44,7 @@ $rank = $result_rank->fetch_assoc();
         }
         .container {
             background-color: #fff;
-            padding: 20px 40px;
+            padding: 20px 41px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 600px;
@@ -58,7 +58,7 @@ $rank = $result_rank->fetch_assoc();
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
+            margin-bottom: 21px;
         }
         th, td {
             padding: 10px;
