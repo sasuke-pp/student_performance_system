@@ -30,7 +30,7 @@ $result = $conn->query($sql);
         }
         .container {
             background-color: #fff;
-            padding: 19px 41px;
+            padding: 19px 42px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 600px;
